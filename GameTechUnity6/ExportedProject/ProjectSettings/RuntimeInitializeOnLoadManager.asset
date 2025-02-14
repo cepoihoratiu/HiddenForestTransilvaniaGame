@@ -1,6 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!300 &1
-RuntimeInitializeOnLoadManager:
-  serializedVersion: 2
-  m_ObjectHideFlags: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a343641813c25bcfe92a468d1bdeac0eb0d8b89f4a6e352a973752468dc2cc3d
+size 139

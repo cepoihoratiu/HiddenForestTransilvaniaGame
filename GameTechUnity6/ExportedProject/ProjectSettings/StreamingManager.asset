@@ -1,5 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!1403656975 &1
-StreamingManager:
-  m_ObjectHideFlags: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee4e83a673bf0c4e9a015364e437f150889370debb213416177e420e18809f76
+size 108

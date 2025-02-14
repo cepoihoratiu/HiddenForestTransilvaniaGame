@@ -1,1 +1,4 @@
 *.resS filter=lfs diff=lfs merge=lfs -text
+GameDemo/Game/Hidden[[:space:]]Forest[[:space:]]Transilvania_Data/sharedassets*.resS filter=lfs diff=lfs merge=lfs -text
+*.asset filter=lfs diff=lfs merge=lfs -text
+*.unity filter=lfs diff=lfs merge=lfs -text
